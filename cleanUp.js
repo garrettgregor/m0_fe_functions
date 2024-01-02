@@ -12,7 +12,7 @@ function askForName() {
   console.log("Hello, what is your name?");
 };
 
-console.log(askForName());
+askForName();
 
 
 // EX 2:
